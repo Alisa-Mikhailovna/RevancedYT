@@ -1,4 +1,32 @@
 # EXCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
-
+amoled
+exclusive-background-playback
+tasteBuilder-remover
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
 spoof-signature-verification
+compact-header
+hdr-auto-brightness
+autorepeat-by-default
+enable-debugging
+force-vp9-codec
+enable-wide-searchbar
+minimized-playback
+copy-video-url
+downloads
+general-ads
+video-ads
+sponsorblock
+custom-branding
+open-links-externally
+hide-watermark
+hide-my-mix
+hide-endscreen-cards
+hide-breaking-news-shelf
+enable-debugging
+disable-player-popup-panels
+custom-video-speed
+custom-video-buffer
+premium-heading
+vanced-microg-support
+theme
+return-youtube-dislike
