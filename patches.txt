@@ -30,3 +30,9 @@ premium-heading
 vanced-microg-support
 theme
 return-youtube-dislike
+# YT MUSIC
+music-microg-support
+exclusive-audio-playback
+codecs-unlock
+background-play
+music-video-ads
