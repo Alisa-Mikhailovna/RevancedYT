@@ -1,15 +1,12 @@
 # EXCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
-amoled
-exclusive-background-playback
 tasteBuilder-remover
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
 spoof-signature-verification
+spoof-app-version
 compact-header
 hdr-auto-brightness
-autorepeat-by-default
 enable-debugging
 force-vp9-codec
-enable-wide-searchbar
 minimized-playback
 copy-video-url
 downloads
@@ -24,13 +21,13 @@ hide-endscreen-cards
 hide-breaking-news-shelf
 enable-debugging
 disable-player-popup-panels
+disable-auto-captions
 custom-video-speed
 custom-video-buffer
 premium-heading
 vanced-microg-support
 theme
 return-youtube-dislike
-# YT MUSIC
 music-microg-support
 exclusive-audio-playback
 codecs-unlock
