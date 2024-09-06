@@ -24,7 +24,7 @@ declare -A artifacts
 artifacts["revanced-cli.jar"]="revanced/revanced-cli revanced-cli .jar"
 artifacts["revanced-integrations.apk"]="inotia00/revanced-integrations .apk"
 artifacts["vanced-microG.apk"]="inotia00/VancedMicroG microg .apk"
-artifacts["revanced-patches.jar"]="inotia00/revanced-patches .jar"
+artifacts["revanced-patches.jar"]="inotia00/revanced-patches/releases/download/v4.12.3/revanced-patches-4.12.3.jar"
 artifacts["apkeep"]="EFForg/apkeep apkeep-x86_64-unknown-linux-gnu"
 
 ## Functions
